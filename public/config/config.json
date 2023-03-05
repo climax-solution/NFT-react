@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "HERE",
+  "SCAN_LINK": "HERE",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "HERE",
+  "SYMBOL": "HERE",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 2000000000000000,
+  "DISPLAY_COST": 0.002,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
